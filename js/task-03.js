@@ -1,4 +1,3 @@
-'use strict';
 const userPassword = 'jqueryismyjam';
 
 const ADMIN_PASSWORD = 'jqueryismyjam';

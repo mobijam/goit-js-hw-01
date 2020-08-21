@@ -1,4 +1,3 @@
-'use strict';
 const invoice = ' '; 
 const stock = 100;
 

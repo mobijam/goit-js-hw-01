@@ -1,4 +1,3 @@
-'use strict';
 const orderPieces = 4;
 
 const credits = 23580;
