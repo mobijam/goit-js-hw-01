@@ -1,4 +1,4 @@
-const countryName = prompt('Введдите название страны');
+const countryName = prompt('Введите название страны');
 
 const CANCELED_BY_USER = 'Отменено пользователем!';
 const NO_DELIVERY = 'В выбранную страну доставка недоступна.';
